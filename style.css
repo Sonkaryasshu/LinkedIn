@@ -6,7 +6,7 @@ body{
 }
 input{
 	width: 40vw;
-	/*min-width: 10px;*/
+	min-width: 250px;
 	border-radius: 0px;	
 	border-width: 1px;
 }
@@ -15,7 +15,7 @@ button{
 	color: white;
 	border: none;
 	width: 40vw;
-	/*min-width: 10px;*/
+	min-width: 250px;
 }
 .nav{
 	text-align: center;
@@ -24,7 +24,7 @@ button{
 .form{
 	background-color: #434649;
 	width: 40vw;
-	/*min-width: 10px;*/
+	min-width: 250px;
 	margin: auto;
 	padding: 10px;
 }
